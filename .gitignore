@@ -1,0 +1,10 @@
+# Vercel deployment allowlist.
+# This keeps all local project files out of future add-all operations.
+/*
+!/.gitignore
+!/index.html
+!/udc-logo.png
+!/dashboard_data.xlsx
+
+# Local macOS metadata
+.DS_Store
