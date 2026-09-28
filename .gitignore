@@ -4,7 +4,7 @@
 !/.gitignore
 !/index.html
 !/udc-logo.png
-!/dashboard_data.xlsx
+!/UDC_Competitive_Intelligence_Supporting_Workbook.xlsx
 !/propertyfinder.qa/
 !/propertyfinder.qa/*.xlsx
 /propertyfinder.qa/*.csv
