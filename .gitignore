@@ -7,12 +7,16 @@
 !/dashboard_data.xlsx
 !/propertyfinder.qa/
 !/propertyfinder.qa/*.xlsx
+/propertyfinder.qa/*.csv
 !/qatar.opendatasoft.com/
 !/qatar.opendatasoft.com/*.xlsx
+/qatar.opendatasoft.com/*.csv
 !/saakin.qa/
 !/saakin.qa/*.xlsx
+/saakin.qa/*.csv
 !/steps.com.qa/
 !/steps.com.qa/*.xlsx
+/steps.com.qa/*.csv
 
 # Local macOS metadata
 .DS_Store
