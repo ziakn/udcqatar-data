@@ -5,6 +5,14 @@
 !/index.html
 !/udc-logo.png
 !/dashboard_data.xlsx
+!/propertyfinder.qa/
+!/propertyfinder.qa/*.xlsx
+!/qatar.opendatasoft.com/
+!/qatar.opendatasoft.com/*.xlsx
+!/saakin.qa/
+!/saakin.qa/*.xlsx
+!/steps.com.qa/
+!/steps.com.qa/*.xlsx
 
 # Local macOS metadata
 .DS_Store
